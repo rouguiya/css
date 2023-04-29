@@ -1,0 +1,11 @@
+form{width:70%;height:50px;display:inline;}
+p{text-align:center;font-size:50px;}
+header{background-color:lightblue;}
+video{height:200px;width:100%;}
+li {display:inline;
+background-color:lightblue;
+margin-left:50px;
+border-bottom-width:30px;
+boder-radis:500px;
+boder-width:40px;
+boder-style:solide;}
